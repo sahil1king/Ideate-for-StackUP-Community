@@ -6,7 +6,7 @@
 quite time-consuming and irritating sometimes.
 ![bottom of past quests](https://github.com/user-attachments/assets/eb3b7046-25d1-4ac4-adbd-1aa28efbbaf8)
 
-To reach the bottom, it takes time and multiple clicks to load more.
+This is the bottom of my quests records and to reach here it takes time and multiple clicks to load more.
 
 
 
